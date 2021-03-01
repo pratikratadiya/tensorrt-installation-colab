@@ -1,6 +1,6 @@
 # Installation of TensorRT on Google Colab (or other environments)
 
-TensorRT is an SDK by Nbidia for optimizing deep learning inference. Installation of TensorRT might be problematic, especially on Google Colab and/or your default environment owing to the following reasons:
+TensorRT is an SDK by Nvidia for optimizing deep learning inference. Installation of TensorRT might be problematic, especially on Google Colab and/or your default environment owing to the following reasons:
 
 - Conflict in default CUDA version and those supported by TensorRT
 - Unmet dependencies introduced when installing the libnvinfer packages required.
