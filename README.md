@@ -1,5 +1,7 @@
 # Installation of TensorRT on Google Colab (or other environments)
 
+**Update (9/27): This repository is no longer maintained. Feel free to use the code as it may continue to work. However, I cannot guarantee its working for any other versions of the involved libraries.**
+
 TensorRT is an SDK by Nvidia for optimizing deep learning inference. Installation of TensorRT might be problematic, especially on Google Colab and/or your default environment owing to the following reasons:
 
 - Conflict in default CUDA version and those supported by TensorRT
